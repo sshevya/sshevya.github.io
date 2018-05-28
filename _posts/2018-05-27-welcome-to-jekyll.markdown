@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Summer"
+title:  "My Interests"
 date:   2018-05-27 19:10:35 +0530
 categories: jekyll update
 ---
