@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Summer Assignment"
+title:  "Summer"
 date:   2018-05-27 19:10:35 +0530
 categories: jekyll update
 ---
