@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Interests"
-date:   2018-05-29 15:08:16 +0530
+date:   2018-05-29 15:12:16 +0530
 categories: jekyll update
 ---
 After my end sems were over I was scratching my head about what am I going to do for the next two and a half months? I knew that I have to work on my coding skills and Python was the very first thing that came to my mind at that time. But what else? How am I going to utilize my summers? How do I figure out the things that interests me?
