@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  >"Intro"
+title:  ">Intro"
 date:   2018-06-10 2:22:16 +0530
 categories: jekyll update
 ---
