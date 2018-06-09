@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "My hands on experience"
+date:   2018-06-09 23:27:16 +0530
+categories: jekyll update
+---
+ new

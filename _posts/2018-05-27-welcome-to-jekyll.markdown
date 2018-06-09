@@ -11,10 +11,3 @@ But then I realized I'll have to start somewhere. So I started googling about ra
 The course helped me to understand what exactly machine learning is. It taught me the mathematical aspects very well, for coding part I am using Youtube lectures and documentations. 
 
 
----
-layout: post
-title:  "My hands on experience"
-date:   2018-06-09 23:09:16 +0530
-categories: jekyll update
----
-ghhj
