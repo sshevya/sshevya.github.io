@@ -6,9 +6,8 @@ layout: home
 ---
 <div class="home">
 
-  <h1>Welcome to my Website!</h1>
+  <h2>A learning experience</h2>
 
-<p>I have created this website to mention all the things that I'll be learning this summer.</p>
 
 </div>
  
