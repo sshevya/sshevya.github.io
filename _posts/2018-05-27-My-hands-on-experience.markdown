@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "My hands on experience"
-date:   2018-06-11 00:32:16 +0530
+date:   2018-06-11 00:34:16 +0530
 categories: jekyll update
 ---
  This was surely a very useful course, but it wasn't enough to start solving problems based on ML.The course taught me the mathematical aspects of Machine Learning very well, it began with the explaination of Linear Regression (single variable), under which it covered hypothesis, cost function and gradient descent algorithm. Then it explained multiple variable Linear Regression covering feature scaling, learning rate, decison boundary etc.This was followed by Logistic Regression. 

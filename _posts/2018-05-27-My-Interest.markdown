@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Why did I dive into these courses?"
-date:   2018-06-10 00:32:16 +0530
+date:   2018-06-10 00:34:16 +0530
 categories: jekyll update
 ---
 
