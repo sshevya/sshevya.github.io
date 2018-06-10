@@ -8,11 +8,7 @@ layout: default
 
   <h4></h4>
     
- {% for post in site.posts %}
- <h2><li><a href="{{ post.url }}">{{post.title}}</a></li></h2>
-
-{% endfor %}
-  
+ 
   <div class="home">
 
   <h1 class="page-heading">Posts</h1>
