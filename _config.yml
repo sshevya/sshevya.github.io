@@ -29,7 +29,7 @@ github_username: "sshevya"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: garth-jekyll-theme
 plugins:
   - jekyll-feed
 
