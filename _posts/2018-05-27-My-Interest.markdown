@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Why did I dive into these courses?"
-date:   2018-06-10 6:28:16 +0530
+date:   2018-06-10 6:31:16 +0530
 categories: jekyll update
 ---
 After my end sems were over I was scratching my head about what am I going to do for the next two and a half months? I knew that I have to work on my coding skills and Python was the very first thing that came to my mind at that time. But what else? How am I going to utilize my summers? How do I figure out the things that interests me?
