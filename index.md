@@ -8,6 +8,6 @@ layout: default
 
   <h2>A learning experience</h2>
 
-{{ site.baseurl }}{% post_url 2018-06-10-My-Interest %}
+{{ site.baseurl }}{% link _post/n2018-05-27-My-Interest.md %}
 </div>
  
