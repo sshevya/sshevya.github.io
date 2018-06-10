@@ -13,7 +13,7 @@ layout: default
 
 {% endfor %}
   
-  <a href="mailto:email@echoecho.com?subject=SweetWords&body=Please send me a copy of your new program!">Email Me</a>
+  <a href="mailto:shevya.shruti999@gmail.com?subject=SweetWords&body=Please send me a copy of your new program!">Email Me</a>
 
 
 </div>
