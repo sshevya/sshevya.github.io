@@ -6,10 +6,10 @@ layout: default
 ---
 <div class="home">
 
-  <h2>A learning experience</h2>
+  <h4>A learning experience</h4>
     
  {% for post in site.posts %}
- <h6><li><a href="{{ post.url }}">{{post.title}}</a></li></h6>
+ <h1><li><a href="{{ post.url }}">{{post.title}}</a></li></h1>
 
 {% endfor %}
 </div>
