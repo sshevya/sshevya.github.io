@@ -19,14 +19,14 @@ description: >- # this means to ignore newlines until "baseurl:"
 
  Sociable.Empathetic.Sophomore.
   
-collections: [sections]   
+  
 
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
-github_username: "sshevya"
+github: "sshevya"
 
 # Build settings
 markdown: kramdown
