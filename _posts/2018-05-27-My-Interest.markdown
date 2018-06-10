@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title:  "Why did I dive into these courses?"
-date:   2018-06-10 6:51:16 +0530
+date:   2018-06-10 7:30:16 +0530
 categories: jekyll update
 ---
 <div class="home">
