@@ -77,7 +77,7 @@ theme_settings:
   katex: true # Enable if using math markup
   
   special_page:
-    search: false
+    search: 
       icon: "search" # Assuming page link and icon are the same
       enabled: true
     tags:
