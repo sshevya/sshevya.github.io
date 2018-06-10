@@ -12,6 +12,7 @@ layout: default
  <h2><li><a href="{{ post.url }}">{{post.title}}</a></li></h2>
 
 {% endfor %}
- <a href="{{ about.url }}">{{About}}</a>
+ <a href="shevya.shruti999@gmail.com?">mail link</a>
+ 
 </div>
  
