@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: post
 title:  "First year done right !"
-date:   2018-06-10 10:44:16 +0530
+date:   2018-06-10 22:40:16 +0530
 categories: jekyll update
 ---
  My first year in Kgp was perfect. Be it enjoying life to the fullest or exploring my interests, it was a wonderful experience.
