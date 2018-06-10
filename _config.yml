@@ -28,7 +28,7 @@ github_username: "sshevya"
 
 # Build settings
 markdown: kramdown
-theme: alembic-jekyll-theme
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
