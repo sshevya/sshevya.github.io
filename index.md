@@ -12,8 +12,9 @@ layout: default
  <h2><li><a href="{{ post.url }}">{{post.title}}</a></li></h2>
 
 {% endfor %}
- <a href="mailto:shevya.shruti999@gmail.com?subject=Subject Using Mailto.co.uk&body=Email Using Body">Email-Link</a> 
   
+  <a href="mailto:shevya.shruti999@gmail.com?subject=Subject Using Mailto.co.uk&body=Email Using Mailto.co.uk">Mailto.co.uk</a>
+
 
 </div>
  
