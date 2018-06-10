@@ -9,7 +9,7 @@ layout: default
   <h2>A learning experience</h2>
     
  {% for post in site.posts %}
- <li><a href="{{ post.url }}">{{post.title}}</a></li>
+ <h6><li><a href="{{ post.url }}">{{post.title}}</a></li></h6>
 
 {% endfor %}
 </div>
