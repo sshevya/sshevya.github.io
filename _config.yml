@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 baseurl: "/myblog"
-url: "https://mansisinha.github.io/"
+url: "https://sshevya.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
