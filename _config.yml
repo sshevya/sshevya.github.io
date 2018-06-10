@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-baseurl: ""
+baseurl: "/Type-on-Strap"
 url: "https://sshevya.github.io"
 title: Type on Strap # site's title
 description: "A website with blog posts and pages" # used by search engines
@@ -25,7 +25,7 @@ theme_settings:
   title: Type on Strap # blog's title
   avatar: assets/img/triangle.svg
   favicon: assets/favicon.ico
-  gravatar: c0d4026a2f24a0f21163a7b59848f4e7# Email MD5 hash
+  gravatar: # Email MD5 hash
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
@@ -33,9 +33,9 @@ theme_settings:
   header_text_feature_image: assets/img/pexels/triangular.jpeg
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
- # Icons
+  # Icons
   rss: true  # Make sure you created a feed.xml with feed.xml layout
-  email_address:"shevya.shruti999@gmail.com" # Full email address, e.g. "sam@example.com"
+  email_address: # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
@@ -116,7 +116,7 @@ paginate_path: "blog/page:num"
 collections:
   portfolio:
     output: true
-    permalink: 
+    permalink: /:collection/:name
 
 
 # BUILD SETTINGS
