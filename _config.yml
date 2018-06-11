@@ -61,8 +61,8 @@ phone: 7050173107
 
 # social settings
 500px_url:
-facebook_url:https://www.facebook.com/shruti.shevya
-github_url: https://github.com/sshevya
+facebook_url:"https://www.facebook.com/shruti.shevya"
+github_url: "https://github.com/sshevya"
 gitlab_url: 
 googleplus_url:
 instagram_url:
