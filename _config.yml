@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Sociable.Empathetic.Sophomore.
 github: "sshevya"
 markdown: kramdown
-
+remote_theme: jekyll-material-theme
 plugins:
   - jekyll-feed
 
