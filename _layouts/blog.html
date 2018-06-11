@@ -8,6 +8,7 @@
 <html>
 	<head>
     {% include head.html %}
+
 	</head>
 	<body class="is-loading">
 
@@ -18,6 +19,7 @@
 				<header id="header">
 					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
 				</header>
+
 
 				<!-- Nav -->
 					<nav id="nav">
@@ -35,17 +37,47 @@
 				<!-- Main -->
 				<div id="main">
 
+          <article class="post featured">
+            <header class="major">
+              <h2><a href="#">My Blogs</a></h2>
+              <p>Here I have listed some of my blogs. These are just for example.
+							</p>
+            </header>
+						<p>
+							I've started with my first year, how I spent the first two semesters in college.
+						</p>
+						<p>
+							After that, I have mentioned about my interests
+						</p>
+
+          </article>
 					<!-- Post -->
-					<section class="post">
-						<p>{{content}}</p>
+					<section class="posts">
+						{% for post in site.posts %}
+						{% assign mod3 = forloop.index | modulo: 3 %}
+							<article>
+								<header>
+									<span class="date">{{ post.date | date_to_string }}</span>
+									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
+								</header>
+								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
+								<p>{{ post.excerpt }}</p>
+								<ul class="actions">
+									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
+								</ul>
+							</article>
+							{% if mod3 == 0 %}
+							<article>
+								<header>
+									<h2><a href="#">Sponsored</a></h2>
+								</header>
+
+							</article>
+							{% endif %}
+						{% endfor %}
+
 					</section>
 
-					<!-- Footer -->
-						<footer>
-              <ul class="actions">
-								<li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
-              </ul>
-						</footer>
 					</div>
 
 				<!-- Footer -->
