@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My hands on experience"
-date:   2018-06-12 6:37:16 +0530
+date:   2018-06-12 22:41:16 +0530
 categories: jekyll update
 ---
  This was surely a very useful course, but it wasn't enough to start solving problems based on ML.

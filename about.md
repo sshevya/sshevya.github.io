@@ -12,7 +12,7 @@ sitemap:
 <span class="image left"><img src="{{ "/images/pic05(2).jpg" | absolute_url }}" alt="" /></span>
 
 
-Hello everyone, I am Shruti Shevya, a second year undergraduate student of the department of mathematics at IIT Kharagpur, enrolled in its integrated MSc course of mathematics and computing.
+Hey all, I am Shruti Shevya, a second year undergraduate student of the department of mathematics at IIT Kharagpur, enrolled in its integrated M.Sc. course of mathematics and computing.
 
 ### More about me
 <div class="box">
