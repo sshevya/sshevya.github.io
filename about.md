@@ -21,6 +21,6 @@ Hey all, I am Shruti Shevya, a second year undergraduate student of the departme
   </p>
 </div>
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/pic05(2).jpg" | absolute_url }}" alt="" /></span>
 
 
