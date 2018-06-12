@@ -17,7 +17,7 @@ Hey all, I am Shruti Shevya, a second year undergraduate student of the departme
 ### More about me
 <div class="box">
   <p>
-   I am an empathetic,sociable sophomore. I love talking to people and making new friends. 
+   I am an extrovert. I like talking to people and making new friends. 
   </p>
 </div>
 
