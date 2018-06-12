@@ -36,14 +36,14 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           default
+facebook:           shruti.shevya
 instagram:          default
-github:             default
+github:             sshevya
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Kharagpur
+phone:              7050173107
+email:              "shevya.shruti999@gmail.com"
 
 # Gems
 gems:

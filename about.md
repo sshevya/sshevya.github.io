@@ -7,20 +7,20 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## Introduction
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+<span class="image left"><img src="{{ "/images/pic05(2).jpg" | absolute_url }}" alt="" /></span>
 
 
-Hey everyone, I am Shruti Shevya. A first year undergraduate student of the department of mathematics at IIT Kharagpur.
+Hello everyone, I am Shruti Shevya, a second year undergraduate student of the department of mathematics at IIT Kharagpur, enrolled in its integrated MSc course of mathematics and computing.
 
-### Content is Imortant
+### More about me
 <div class="box">
   <p>
-   I am an extrovert and I love to explore new things.
+   I am an empathetic,sociable sophomore. I love talking to people and making new friends. 
   </p>
 </div>
 
 <span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
 
-O-bn social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be overurden with a considerable measure of information.
+

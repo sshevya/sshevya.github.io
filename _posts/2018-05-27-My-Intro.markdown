@@ -1,11 +1,13 @@
 ---
-layout: blog
+layout: post
 title:  "First year done right !"
-date:   2018-06-12 1:30:16 +0530
+date:   2018-06-12 6:19:16 +0530
 categories: jekyll update
 ---
  My first year in Kgp was perfect. Be it enjoying life to the fullest or exploring my interests, it was a wonderful experience.
+
+ It was the beginning of a new life here. The lifestyle was different and people were all new, so it took me some time to get adjusted to the culture of Kgp.
  
- In the beginning it was all about meeting new people, making new friends, exploring the campus and most importantly becoming a part of societies. I joined Business Club in my first semester and KOSS in the second semester. 
+ In the beginning it was all about meeting new people, making new friends, exploring the campus and most importantly becoming part of societies. I joined Business Club in my first semester and KOSS in the second semester. I learnt a lot from both the societies and also got a chance to meet some wonderful seniors there.
 
  As a member of KOSS I had to complete a task of making my own website using jekyll. It was not that easy for me because I did not know anything about jekyll. But with the help of some documentations I was able to set up my own jekyll based portfolio.
